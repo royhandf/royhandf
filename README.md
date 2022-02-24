@@ -1,8 +1,4 @@
-- 👋 Hi, I’m royhandf
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Maulana Malik Ibrahim State Islamic University of Malang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, I'm M. Royhan Daffa. I'm currently studying at Maulana Malik Ibrahim State Islamic University of Malang. I'm trying to be a Web Developer.
 
 <!---
 royhandf/royhandf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
