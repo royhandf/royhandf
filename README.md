@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm M. Royhan Daffa</h2>
-
-<h4 align="center">A passionate Web Developer from Indonesia</h4>
+<p align="center">A passionate Web Developer from Indonesia</p>
 
 <p align="left"></p>
 
