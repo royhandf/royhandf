@@ -73,8 +73,8 @@
 
 ###
 
-<picture>
- <img src="https://raw.githubusercontent.com/royhandf/royhandf/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/royhandf/royhandf/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+</div>
 
 ###
