@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/royhandf/royhandf/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+<img src="https://raw.githubusercontent.com/royhandf/royhandf/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
